@@ -3,7 +3,7 @@
 A simple iOS app demonstrating permission requests.
 
 ## Demo
-<img src="./images/output.gif" width="250">
+<img src="./images/output2.gif" width="250">
 
 ## Features
 - Camera permission
